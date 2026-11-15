@@ -1,0 +1,15 @@
+{
+  "name": "hr-insta-gc-api",
+  "version": "1.0.0",
+  "description": "HR HABIB Instagram GC pending API bridge for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
